@@ -1,3 +1,5 @@
+package Homework01;
+
 public class Program {
     private String title;
     private int credits;

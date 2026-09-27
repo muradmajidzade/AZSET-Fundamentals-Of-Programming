@@ -1,3 +1,5 @@
+import Homework01.Program;
+
 public static void main(String[] args) {
     Program course = new Program("Computer Science", 10, "German", "Azerbaijan");
     Program course2 = new Program("Step IT", 12, "Russian", "Ukraine");
